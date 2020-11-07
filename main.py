@@ -113,7 +113,7 @@ def run( config_name = 'config.toml' ):
     )
 
     logger.info( 'messages - {}'.format( messages ))
-    bot = Bot( token = TOKEN, chat_id = '@airbotchannel' )
+    bot = Bot( token = TOKEN, chat_id = CHANNEL ) # example - @airbotchannel
     for message in messages:
         bot.post_message( message ) 
 
