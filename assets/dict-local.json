@@ -1,0 +1,3317 @@
+{
+    "feed": {
+        "title": "NEWS ON AIR",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+            "value": "NEWS ON AIR"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "http://newsonair.com/Default.aspx"
+            }
+        ],
+        "link": "http://newsonair.com/Default.aspx",
+        "rights": "Website cell, IT Unit, NSD, All India Radio, New Broadcasting House,\\nNew Delhi, India ? 2006 All rights reserved. All India Radio",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+            "value": "Website cell, IT Unit, NSD, All India Radio, New Broadcasting House,\\nNew Delhi, India ? 2006 All rights reserved. All India Radio"
+        },
+        "tags": [
+            {
+                "term": "AIR Regional Audio",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    "entries": [
+        {
+            "title": "Agartala-Kokborok-1945-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Agartala-Kokborok-1945-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-1945-2020114202352.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-1945-2020114202352.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-1945-2020114202352.mp3",
+            "authors": [
+                {
+                    "name": "Kokborok"
+                }
+            ],
+            "author": "Kokborok",
+            "author_detail": {
+                "name": "Kokborok"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1945"
+        },
+        {
+            "title": "Agartala-Bengali-1955-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Agartala-Bengali-1955-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-1955-202011420247.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-1955-202011420247.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-1955-202011420247.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1955"
+        },
+        {
+            "title": "Agartala-Kokborok-0740-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Agartala-Kokborok-0740-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-0740-20201158389.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-0740-20201158389.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Kokborok-0740-20201158389.mp3",
+            "authors": [
+                {
+                    "name": "Kokborok"
+                }
+            ],
+            "author": "Kokborok",
+            "author_detail": {
+                "name": "Kokborok"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0740"
+        },
+        {
+            "title": "Agartala-Bengali-0735-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Agartala-Bengali-0735-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-0735-202011583756.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-0735-202011583756.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Agartala-Bengali-0735-202011583756.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0735"
+        },
+        {
+            "title": "Ahmedabad-Gujarati-1910-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ahmedabad-Gujarati-1910-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1910-2020114192553.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1910-2020114192553.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1910-2020114192553.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1910"
+        },
+        {
+            "title": "Ahmedabad-Gujarati-0705-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ahmedabad-Gujarati-0705-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-0705-202011574536.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-0705-202011574536.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-0705-202011574536.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0705"
+        },
+        {
+            "title": "Ahmedabad-Gujarati-1430-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ahmedabad-Gujarati-1430-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1430-2020114145316.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1430-2020114145316.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Gujarati-1430-2020114145316.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1430"
+        },
+        {
+            "title": "Ahmedabad-Sindhi-1815-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ahmedabad-Sindhi-1815-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Sindhi-1815-202011419847.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Sindhi-1815-202011419847.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ahmedabad-Sindhi-1815-202011419847.mp3",
+            "authors": [
+                {
+                    "name": "Sindhi"
+                }
+            ],
+            "author": "Sindhi",
+            "author_detail": {
+                "name": "Sindhi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1815"
+        },
+        {
+            "title": "Aizawl-Mizo-1830-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aizawl-Mizo-1830-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-1830-2020114193412.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-1830-2020114193412.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-1830-2020114193412.mp3",
+            "authors": [
+                {
+                    "name": "Mizo"
+                }
+            ],
+            "author": "Mizo",
+            "author_detail": {
+                "name": "Mizo"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1830"
+        },
+        {
+            "title": "Aizawl-Mizo-0730-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aizawl-Mizo-0730-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-0730-202011583941.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-0730-202011583941.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aizawl-Mizo-0730-202011583941.mp3",
+            "authors": [
+                {
+                    "name": "Mizo"
+                }
+            ],
+            "author": "Mizo",
+            "author_detail": {
+                "name": "Mizo"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0730"
+        },
+        {
+            "title": "Aurangabad-Marathi-1800-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aurangabad-Marathi-1800-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1800-20201141985.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1800-20201141985.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1800-20201141985.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1800"
+        },
+        {
+            "title": "Aurangabad-Marathi-1300-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aurangabad-Marathi-1300-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1300-2020114132050.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1300-2020114132050.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-1300-2020114132050.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1300"
+        },
+        {
+            "title": "Aurangabad-Marathi-0710-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aurangabad-Marathi-0710-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-0710-202011574439.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-0710-202011574439.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Marathi-0710-202011574439.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0710"
+        },
+        {
+            "title": "Aurangabad-Urdu-0840-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Aurangabad-Urdu-0840-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Urdu-0840-20201151007.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Urdu-0840-20201151007.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Aurangabad-Urdu-0840-20201151007.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0840"
+        },
+        {
+            "title": "Bangalore-Kannada-1840-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bangalore-Kannada-1840-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114191048.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114191048.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114191048.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1840"
+        },
+        {
+            "title": "Bangalore-Kannada-1840-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bangalore-Kannada-1840-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114195424.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114195424.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bangalore-Kannada-1840-2020114195424.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1840"
+        },
+        {
+            "title": "Bhopal-Hindi-1430-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bhopal-Hindi-1430-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1430-2020114142652.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1430-2020114142652.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1430-2020114142652.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1430"
+        },
+        {
+            "title": "Bhopal-Hindi-0705-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bhopal-Hindi-0705-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-0705-20201157469.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-0705-20201157469.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-0705-20201157469.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0705"
+        },
+        {
+            "title": "Bhopal-Hindi-1910-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bhopal-Hindi-1910-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1910-2020114193725.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1910-2020114193725.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhopal-Hindi-1910-2020114193725.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1910"
+        },
+        {
+            "title": "Bhuj-Gujarati-1825-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bhuj-Gujarati-1825-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-1825-2020114193340.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-1825-2020114193340.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-1825-2020114193340.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1825"
+        },
+        {
+            "title": "Bhuj-Gujarati-0650-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Bhuj-Gujarati-0650-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-0650-202011574553.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-0650-202011574553.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Bhuj-Gujarati-0650-202011574553.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0650"
+        },
+        {
+            "title": "Calicut-Malayalam-0645-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Calicut-Malayalam-0645-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Calicut-Malayalam-0645-202011574522.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Calicut-Malayalam-0645-202011574522.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Calicut-Malayalam-0645-202011574522.mp3",
+            "authors": [
+                {
+                    "name": "Malayalam"
+                }
+            ],
+            "author": "Malayalam",
+            "author_detail": {
+                "name": "Malayalam"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0645"
+        },
+        {
+            "title": "Chandigarh-Hindi-1810-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Chandigarh-Hindi-1810-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Hindi-1810-2020114193447.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Hindi-1810-2020114193447.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Hindi-1810-2020114193447.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1810"
+        },
+        {
+            "title": "Chandigarh-Punjabi-1820-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Chandigarh-Punjabi-1820-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Punjabi-1820-2020114193535.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Punjabi-1820-2020114193535.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chandigarh-Punjabi-1820-2020114193535.mp3",
+            "authors": [
+                {
+                    "name": "Punjabi"
+                }
+            ],
+            "author": "Punjabi",
+            "author_detail": {
+                "name": "Punjabi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1820"
+        },
+        {
+            "title": "Chennai-Tamil-1830-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Chennai-Tamil-1830-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-1830-2020114191022.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-1830-2020114191022.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-1830-2020114191022.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1830"
+        },
+        {
+            "title": "Chennai-Tamil-0645-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Chennai-Tamil-0645-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-0645-202011583958.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-0645-202011583958.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Chennai-Tamil-0645-202011583958.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0645"
+        },
+        {
+            "title": "Cuttack-Odia-1845-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Cuttack-Odia-1845-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1845-2020114193324.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1845-2020114193324.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1845-2020114193324.mp3",
+            "authors": [
+                {
+                    "name": "Odia"
+                }
+            ],
+            "author": "Odia",
+            "author_detail": {
+                "name": "Odia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1845"
+        },
+        {
+            "title": "Cuttack-Odia-1430-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Cuttack-Odia-1430-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1430-202011415917.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1430-202011415917.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Cuttack-Odia-1430-202011415917.mp3",
+            "authors": [
+                {
+                    "name": "Odia"
+                }
+            ],
+            "author": "Odia",
+            "author_detail": {
+                "name": "Odia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1430"
+        },
+        {
+            "title": "Dehradun-Hindi-1830-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Dehradun-Hindi-1830-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dehradun-Hindi-1830-2020114185057.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dehradun-Hindi-1830-2020114185057.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dehradun-Hindi-1830-2020114185057.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1830"
+        },
+        {
+            "title": "Dharwad-Kannada-0705-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Dharwad-Kannada-0705-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dharwad-Kannada-0705-202011585819.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dharwad-Kannada-0705-202011585819.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dharwad-Kannada-0705-202011585819.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0705"
+        },
+        {
+            "title": "Dibrugarh-Assamese-1800-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Dibrugarh-Assamese-1800-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dibrugarh-Assamese-1800-2020114184337.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dibrugarh-Assamese-1800-2020114184337.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Dibrugarh-Assamese-1800-2020114184337.mp3",
+            "authors": [
+                {
+                    "name": "Assamese"
+                }
+            ],
+            "author": "Assamese",
+            "author_detail": {
+                "name": "Assamese"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1800"
+        },
+        {
+            "title": "Gangtok-Lepcha-1845-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gangtok-Lepcha-1845-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Lepcha-1845-202011419040.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Lepcha-1845-202011419040.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Lepcha-1845-202011419040.mp3",
+            "authors": [
+                {
+                    "name": "Lepcha"
+                }
+            ],
+            "author": "Lepcha",
+            "author_detail": {
+                "name": "Lepcha"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1845"
+        },
+        {
+            "title": "Gangtok-Nepali-1840-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gangtok-Nepali-1840-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Nepali-1840-2020114185941.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Nepali-1840-2020114185941.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Nepali-1840-2020114185941.mp3",
+            "authors": [
+                {
+                    "name": "Nepali"
+                }
+            ],
+            "author": "Nepali",
+            "author_detail": {
+                "name": "Nepali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1840"
+        },
+        {
+            "title": "Gangtok-Bhutia-1850-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gangtok-Bhutia-1850-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Bhutia-1850-202011419155.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Bhutia-1850-202011419155.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gangtok-Bhutia-1850-202011419155.mp3",
+            "authors": [
+                {
+                    "name": "Bhutia"
+                }
+            ],
+            "author": "Bhutia",
+            "author_detail": {
+                "name": "Bhutia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1850"
+        },
+        {
+            "title": "Gorakhpur-Bhojpuri-1730-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gorakhpur-Bhojpuri-1730-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Bhojpuri-1730-202011419658.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Bhojpuri-1730-202011419658.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Bhojpuri-1730-202011419658.mp3",
+            "authors": [
+                {
+                    "name": "Bhojpuri"
+                }
+            ],
+            "author": "Bhojpuri",
+            "author_detail": {
+                "name": "Bhojpuri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1730"
+        },
+        {
+            "title": "Gorakhpur-Hindi-1800-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gorakhpur-Hindi-1800-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-1800-202011419723.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-1800-202011419723.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-1800-202011419723.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1800"
+        },
+        {
+            "title": "Gorakhpur-Hindi-0720-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Gorakhpur-Hindi-0720-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-0720-202011574848.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-0720-202011574848.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Gorakhpur-Hindi-0720-202011574848.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0720"
+        },
+        {
+            "title": "Guwahati-Assamese-0850-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Guwahati-Assamese-0850-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-0850-202011592746.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-0850-202011592746.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-0850-202011592746.mp3",
+            "authors": [
+                {
+                    "name": "Assamese"
+                }
+            ],
+            "author": "Assamese",
+            "author_detail": {
+                "name": "Assamese"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0850"
+        },
+        {
+            "title": "Guwahati-Assamese-1845-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Guwahati-Assamese-1845-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-1845-2020114193549.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-1845-2020114193549.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Guwahati-Assamese-1845-2020114193549.mp3",
+            "authors": [
+                {
+                    "name": "Assamese"
+                }
+            ],
+            "author": "Assamese",
+            "author_detail": {
+                "name": "Assamese"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1845"
+        },
+        {
+            "title": "Hyderabad-Telugu-1310-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Hyderabad-Telugu-1310-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1310-2020114134420.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1310-2020114134420.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1310-2020114134420.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1310"
+        },
+        {
+            "title": "Hyderabad-Telugu-1815-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Hyderabad-Telugu-1815-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1815-202011419822.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1815-202011419822.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Telugu-1815-202011419822.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1815"
+        },
+        {
+            "title": "Hyderabad-Urdu-1750-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Hyderabad-Urdu-1750-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Urdu-1750-2020114184011.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Urdu-1750-2020114184011.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Hyderabad-Urdu-1750-2020114184011.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1750"
+        },
+        {
+            "title": "Imphal-Manipuri-0730-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Imphal-Manipuri-0730-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-0730-202011585835.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-0730-202011585835.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-0730-202011585835.mp3",
+            "authors": [
+                {
+                    "name": "Manipuri"
+                }
+            ],
+            "author": "Manipuri",
+            "author_detail": {
+                "name": "Manipuri"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0730"
+        },
+        {
+            "title": "Imphal-Manipuri-1930-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Imphal-Manipuri-1930-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-1930-2020114195856.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-1930-2020114195856.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Imphal-Manipuri-1930-2020114195856.mp3",
+            "authors": [
+                {
+                    "name": "Manipuri"
+                }
+            ],
+            "author": "Manipuri",
+            "author_detail": {
+                "name": "Manipuri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1930"
+        },
+        {
+            "title": "Itanagar-English-1655-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Itanagar-English-1655-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1655-202011417198.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1655-202011417198.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1655-202011417198.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1655"
+        },
+        {
+            "title": "Itanagar-Hindi-1945-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Itanagar-Hindi-1945-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1945-2020114201415.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1945-2020114201415.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1945-2020114201415.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1945"
+        },
+        {
+            "title": "Itanagar-Hindi-1645-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Itanagar-Hindi-1645-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1645-2020114171846.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1645-2020114171846.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-Hindi-1645-2020114171846.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1645"
+        },
+        {
+            "title": "Itanagar-English-1950-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Itanagar-English-1950-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1950-2020114201435.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1950-2020114201435.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Itanagar-English-1950-2020114201435.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1950"
+        },
+        {
+            "title": "Jaipur-Hindi-1230-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jaipur-Hindi-1230-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1230-202011413208.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1230-202011413208.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1230-202011413208.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1230"
+        },
+        {
+            "title": "Jaipur-Hindi-0900-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jaipur-Hindi-0900-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-0900-202011592246.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-0900-202011592246.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-0900-202011592246.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0900"
+        },
+        {
+            "title": "Jaipur-Hindi-1830-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jaipur-Hindi-1830-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1830-2020114193358.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1830-2020114193358.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Hindi-1830-2020114193358.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1830"
+        },
+        {
+            "title": "Jaipur-Rajasthani-1850-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jaipur-Rajasthani-1850-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Rajasthani-1850-2020114193514.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Rajasthani-1850-2020114193514.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jaipur-Rajasthani-1850-2020114193514.mp3",
+            "authors": [
+                {
+                    "name": "Rajasthani"
+                }
+            ],
+            "author": "Rajasthani",
+            "author_detail": {
+                "name": "Rajasthani"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1850"
+        },
+        {
+            "title": "Jammu-Gojri-1015-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jammu-Gojri-1015-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1015-2020114125137.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1015-2020114125137.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1015-2020114125137.mp3",
+            "authors": [
+                {
+                    "name": "Gojri"
+                }
+            ],
+            "author": "Gojri",
+            "author_detail": {
+                "name": "Gojri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1015"
+        },
+        {
+            "title": "Jammu-Dogri-1815-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jammu-Dogri-1815-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1815-202011419541.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1815-202011419541.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1815-202011419541.mp3",
+            "authors": [
+                {
+                    "name": "Dogri"
+                }
+            ],
+            "author": "Dogri",
+            "author_detail": {
+                "name": "Dogri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1815"
+        },
+        {
+            "title": "Jammu-Gojri-1700-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jammu-Gojri-1700-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1700-202011419928.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1700-202011419928.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Gojri-1700-202011419928.mp3",
+            "authors": [
+                {
+                    "name": "Gojri"
+                }
+            ],
+            "author": "Gojri",
+            "author_detail": {
+                "name": "Gojri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1700"
+        },
+        {
+            "title": "Jammu-Dogri-1230-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jammu-Dogri-1230-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1230-202011415150.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1230-202011415150.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-1230-202011415150.mp3",
+            "authors": [
+                {
+                    "name": "Dogri"
+                }
+            ],
+            "author": "Dogri",
+            "author_detail": {
+                "name": "Dogri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1230"
+        },
+        {
+            "title": "Jammu-Dogri-0920-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Jammu-Dogri-0920-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-0920-202011412343.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-0920-202011412343.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Jammu-Dogri-0920-202011412343.mp3",
+            "authors": [
+                {
+                    "name": "Dogri"
+                }
+            ],
+            "author": "Dogri",
+            "author_detail": {
+                "name": "Dogri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "0920"
+        },
+        {
+            "title": "Kohima-English-1920-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kohima-English-1920-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-1920-2020114201456.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-1920-2020114201456.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-1920-2020114201456.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1920"
+        },
+        {
+            "title": "Kohima-English-0725-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kohima-English-0725-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-0725-202011583925.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-0725-202011583925.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-English-0725-202011583925.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0725"
+        },
+        {
+            "title": "Kohima-Nagamese-1910-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kohima-Nagamese-1910-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-1910-202011420726.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-1910-202011420726.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-1910-202011420726.mp3",
+            "authors": [
+                {
+                    "name": "Nagamese"
+                }
+            ],
+            "author": "Nagamese",
+            "author_detail": {
+                "name": "Nagamese"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1910"
+        },
+        {
+            "title": "Kohima-Nagamese-0720-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kohima-Nagamese-0720-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-0720-20201157522.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-0720-20201157522.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kohima-Nagamese-0720-20201157522.mp3",
+            "authors": [
+                {
+                    "name": "Nagamese"
+                }
+            ],
+            "author": "Nagamese",
+            "author_detail": {
+                "name": "Nagamese"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0720"
+        },
+        {
+            "title": "Kolkata-Bengali-0735-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kolkata-Bengali-0735-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-0735-202011583848.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-0735-202011583848.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-0735-202011583848.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0735"
+        },
+        {
+            "title": "Kolkata-Bengali-1340-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kolkata-Bengali-1340-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1340-2020114141728.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1340-2020114141728.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1340-2020114141728.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1340"
+        },
+        {
+            "title": "Kolkata-Bengali-1950-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kolkata-Bengali-1950-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1950-2020114203020.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1950-2020114203020.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1950-2020114203020.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1950"
+        },
+        {
+            "title": "Kolkata-Bengali-1250-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kolkata-Bengali-1250-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1250-2020114131952.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1250-2020114131952.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kolkata-Bengali-1250-2020114131952.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1250"
+        },
+        {
+            "title": "Kurseong-Nepali-1850-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Kurseong-Nepali-1850-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kurseong-Nepali-1850-2020114193425.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kurseong-Nepali-1850-2020114193425.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Kurseong-Nepali-1850-2020114193425.mp3",
+            "authors": [
+                {
+                    "name": "Nepali"
+                }
+            ],
+            "author": "Nepali",
+            "author_detail": {
+                "name": "Nepali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1850"
+        },
+        {
+            "title": "Leh-Ladakhi-1915-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Leh-Ladakhi-1915-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Leh-Ladakhi-1915-2020114194537.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Leh-Ladakhi-1915-2020114194537.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Leh-Ladakhi-1915-2020114194537.mp3",
+            "authors": [
+                {
+                    "name": "Ladakhi"
+                }
+            ],
+            "author": "Ladakhi",
+            "author_detail": {
+                "name": "Ladakhi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1915"
+        },
+        {
+            "title": "Lucknow-Urdu-1310-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Lucknow-Urdu-1310-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Urdu-1310-2020114135319.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Urdu-1310-2020114135319.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Urdu-1310-2020114135319.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1310"
+        },
+        {
+            "title": "Lucknow-Hindi-1920-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Lucknow-Hindi-1920-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Hindi-1920-2020114202333.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Hindi-1920-2020114202333.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Lucknow-Hindi-1920-2020114202333.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1920"
+        },
+        {
+            "title": "Mumbai-Marathi-1500-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Mumbai-Marathi-1500-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Mumbai-Marathi-1500-202011420243.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Mumbai-Marathi-1500-202011420243.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Mumbai-Marathi-1500-202011420243.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1500"
+        },
+        {
+            "title": "Panaji-Konkani-1920-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Panaji-Konkani-1920-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-1920-2020114195550.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-1920-2020114195550.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-1920-2020114195550.mp3",
+            "authors": [
+                {
+                    "name": "Konkani"
+                }
+            ],
+            "author": "Konkani",
+            "author_detail": {
+                "name": "Konkani"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1920"
+        },
+        {
+            "title": "Panaji-Konkani-0725-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Panaji-Konkani-0725-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-0725-202011583828.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-0725-202011583828.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Panaji-Konkani-0725-202011583828.mp3",
+            "authors": [
+                {
+                    "name": "Konkani"
+                }
+            ],
+            "author": "Konkani",
+            "author_detail": {
+                "name": "Konkani"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0725"
+        },
+        {
+            "title": "Patna-Hindi-1930-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Patna-Hindi-1930-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-1930-2020114205822.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-1930-2020114205822.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-1930-2020114205822.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1930"
+        },
+        {
+            "title": "Patna-Hindi-0830-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Patna-Hindi-0830-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-0830-202011510128.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-0830-202011510128.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Patna-Hindi-0830-202011510128.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0830"
+        },
+        {
+            "title": "Pudducherry-Tamil-1810-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Pudducherry-Tamil-1810-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pudducherry-Tamil-1810-202011419945.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pudducherry-Tamil-1810-202011419945.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pudducherry-Tamil-1810-202011419945.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1810"
+        },
+        {
+            "title": "Pune-Marathi-2041-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Pune-Marathi-2041-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pune-Marathi-2041-2020114184717.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pune-Marathi-2041-2020114184717.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Pune-Marathi-2041-2020114184717.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "2041"
+        },
+        {
+            "title": "Raipur-Hindi-1910-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Raipur-Hindi-1910-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Hindi-1910-2020114193444.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Hindi-1910-2020114193444.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Hindi-1910-2020114193444.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1910"
+        },
+        {
+            "title": "Raipur-Chhatisgar-1800-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Raipur-Chhatisgar-1800-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Chhatisgar-1800-202011419743.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Chhatisgar-1800-202011419743.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Raipur-Chhatisgar-1800-202011419743.mp3",
+            "authors": [
+                {
+                    "name": "Chhatisgar"
+                }
+            ],
+            "author": "Chhatisgar",
+            "author_detail": {
+                "name": "Chhatisgar"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1800"
+        },
+        {
+            "title": "Ranchi-Hindi-1900-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ranchi-Hindi-1900-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1900-2020114193535.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1900-2020114193535.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1900-2020114193535.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1900"
+        },
+        {
+            "title": "Ranchi-Hindi-1310-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ranchi-Hindi-1310-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1310-202011413532.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1310-202011413532.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-1310-202011413532.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1310"
+        },
+        {
+            "title": "Ranchi-Hindi-0830-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Ranchi-Hindi-0830-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-0830-202011595928.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-0830-202011595928.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Ranchi-Hindi-0830-202011595928.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0830"
+        },
+        {
+            "title": "Sambalpur-Sambalpuri-0647-0652-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Sambalpur-Sambalpuri-0647-0652-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-0647-0652-202011571756.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-0647-0652-202011571756.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-0647-0652-202011571756.mp3",
+            "authors": [
+                {
+                    "name": "Sambalpuri"
+                }
+            ],
+            "author": "Sambalpuri",
+            "author_detail": {
+                "name": "Sambalpuri"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0647-0652"
+        },
+        {
+            "title": "Sambalpur-Sambalpuri-2017-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Sambalpur-Sambalpuri-2017-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-2017-202011419369.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-2017-202011419369.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Sambalpur-Sambalpuri-2017-202011419369.mp3",
+            "authors": [
+                {
+                    "name": "Sambalpuri"
+                }
+            ],
+            "author": "Sambalpuri",
+            "author_detail": {
+                "name": "Sambalpuri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "2017"
+        },
+        {
+            "title": "Shillong-English-0830-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shillong-English-0830-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-English-0830-20201159234.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-English-0830-20201159234.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-English-0830-20201159234.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0830"
+        },
+        {
+            "title": "Shillong-Garo-1805-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shillong-Garo-1805-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Garo-1805-2020114184954.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Garo-1805-2020114184954.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Garo-1805-2020114184954.mp3",
+            "authors": [
+                {
+                    "name": "Garo"
+                }
+            ],
+            "author": "Garo",
+            "author_detail": {
+                "name": "Garo"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1805"
+        },
+        {
+            "title": "Shillong-Jaintia-1840-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shillong-Jaintia-1840-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Jaintia-1840-202011418549.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Jaintia-1840-202011418549.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shillong-Jaintia-1840-202011418549.mp3",
+            "authors": [
+                {
+                    "name": "Jaintia"
+                }
+            ],
+            "author": "Jaintia",
+            "author_detail": {
+                "name": "Jaintia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1840"
+        },
+        {
+            "title": "Shimla-Hindi-1945-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shimla-Hindi-1945-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1945-2020114201535.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1945-2020114201535.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1945-2020114201535.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1945"
+        },
+        {
+            "title": "Shimla-Hindi-1800-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shimla-Hindi-1800-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1800-202011419637.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1800-202011419637.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-1800-202011419637.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1800"
+        },
+        {
+            "title": "Shimla-Hindi-0915-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Shimla-Hindi-0915-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-0915-202011595952.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-0915-202011595952.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Shimla-Hindi-0915-202011595952.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0915"
+        },
+        {
+            "title": "Silchar-Bengali-0735-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Silchar-Bengali-0735-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-0735-202011575247.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-0735-202011575247.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-0735-202011575247.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0735"
+        },
+        {
+            "title": "Silchar-Bengali-1955-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Silchar-Bengali-1955-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-1955-2020114202318.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-1955-2020114202318.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Silchar-Bengali-1955-2020114202318.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1955"
+        },
+        {
+            "title": "Tiruchirapalli-Tamil-1345-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Tiruchirapalli-Tamil-1345-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tiruchirapalli-Tamil-1345-2020114143251.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tiruchirapalli-Tamil-1345-2020114143251.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tiruchirapalli-Tamil-1345-2020114143251.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1345"
+        },
+        {
+            "title": "Tpuram-Malayalam-1820-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Tpuram-Malayalam-1820-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tpuram-Malayalam-1820-2020114195311.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tpuram-Malayalam-1820-2020114195311.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Tpuram-Malayalam-1820-2020114195311.mp3",
+            "authors": [
+                {
+                    "name": "Malayalam"
+                }
+            ],
+            "author": "Malayalam",
+            "author_detail": {
+                "name": "Malayalam"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1820"
+        },
+        {
+            "title": "Vijayawada-Telugu-0645-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Vijayawada-Telugu-0645-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-0645-20201157450.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-0645-20201157450.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-0645-20201157450.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0645"
+        },
+        {
+            "title": "Vijayawada-Telugu-1320-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Vijayawada-Telugu-1320-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-1320-202011414252.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-1320-202011414252.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Vijayawada-Telugu-1320-202011414252.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1320"
+        },
+        {
+            "title": "Visakhapatnam-Telugu-1815-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+                "value": "Visakhapatnam-Telugu-1815-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Visakhapatnam-Telugu-1815-20201141995.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Visakhapatnam-Telugu-1815-20201141995.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/Regional/2020/Nov/Regional-Visakhapatnam-Telugu-1815-20201141995.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1815"
+        }
+    ],
+    "bozo": 1,
+    "headers": {
+        "Cache-Control": "private",
+        "Content-Type": "text/html; charset=utf-8",
+        "Server": "Microsoft-IIS/8.0",
+        "X-AspNet-Version": "4.0.30319",
+        "X-Powered-By": "ASP.NET",
+        "X-Frame-Options": "sameorigin",
+        "Date": "Thu, 05 Nov 2020 05:18:39 GMT",
+        "Connection": "close",
+        "Content-Length": "60063"
+    },
+    "href": "https://newsonair.gov.in/Regional_Audio_rss.aspx",
+    "status": 301,
+    "encoding": "utf-8",
+    "bozo_exception": "feedparser.NonXMLContentType(\'text/html; charset=utf-8 is not an XML media type\')",
+    "version": "rss20",
+    "namespaces": {}
+}

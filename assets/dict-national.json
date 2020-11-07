@@ -1,0 +1,1869 @@
+{
+    "feed": {
+        "title": "NEWS ON AIR",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+            "value": "NEWS ON AIR"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://newsonair.gov.in/Default.aspx"
+            }
+        ],
+        "link": "https://newsonair.gov.in/Default.aspx",
+        "rights": "Website cell, IT Unit, NSD, All India Radio, New Broadcasting House,\\nNew Delhi, India ? 2006 All rights reserved. All India Radio",
+        "rights_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+            "value": "Website cell, IT Unit, NSD, All India Radio, New Broadcasting House,\\nNew Delhi, India ? 2006 All rights reserved. All India Radio"
+        },
+        "tags": [
+            {
+                "term": "AIR NSD Audio News",
+                "scheme": null,
+                "label": null
+            }
+        ]
+    },
+    "entries": [
+        {
+            "title": "World News-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "World News-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020114223326.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020114223326.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020114223326.mp3",
+            "authors": [
+                {}
+            ],
+            "author": "",
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 04, 2020"
+        },
+        {
+            "title": "Spotlight-News Analysis-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Spotlight-News Analysis-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020114211653.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020114211653.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020114211653.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 04, 2020"
+        },
+        {
+            "title": "Sports Scan-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Sports Scan-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020114194858.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020114194858.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020114194858.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 04, 2020"
+        },
+        {
+            "title": "Market Mantra-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Market Mantra-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011419920.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011419920.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011419920.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 04, 2020"
+        },
+        {
+            "title": "Employment News-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Employment News-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020114164126.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020114164126.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020114164126.mp3",
+            "authors": [
+                {}
+            ],
+            "author": "",
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 04, 2020"
+        },
+        {
+            "title": "World News-Nov 03, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "World News-Nov 03, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020113223448.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020113223448.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/World-News-WN-2020113223448.mp3",
+            "authors": [
+                {}
+            ],
+            "author": "",
+            "published": "Nov 03, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 03, 2020"
+        },
+        {
+            "title": "Spotlight-News Analysis-Nov 03, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Spotlight-News Analysis-Nov 03, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020113213638.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020113213638.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Spotlight-News-Analysis-SN-2020113213638.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 03, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 03, 2020"
+        },
+        {
+            "title": "Sports Scan-Nov 03, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Sports Scan-Nov 03, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020113195628.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020113195628.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Sports-Scan-SS-2020113195628.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 03, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 03, 2020"
+        },
+        {
+            "title": "Market Mantra-Nov 03, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Market Mantra-Nov 03, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011319620.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011319620.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Market-Mantra-MM-202011319620.mp3",
+            "authors": [
+                {
+                    "name": "Hindi/English"
+                }
+            ],
+            "author": "Hindi/English",
+            "author_detail": {
+                "name": "Hindi/English"
+            },
+            "published": "Nov 03, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 03, 2020"
+        },
+        {
+            "title": "Employment News-Nov 03, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Employment News-Nov 03, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020113173135.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020113173135.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Broadcast/Daily/2020/Nov/Employment-News-EN-2020113173135.mp3",
+            "authors": [
+                {}
+            ],
+            "author": "",
+            "published": "Nov 03, 2020",
+            "published_parsed": null,
+            "bulletintime": "Nov 03, 2020"
+        },
+        {
+            "title": "Khabarnama (Mor)-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Khabarnama (Mor)-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabarnama-(Mor)-202011592032.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabarnama-(Mor)-202011592032.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabarnama-(Mor)-202011592032.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0850"
+        },
+        {
+            "title": "Morning News-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Morning News-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Morning-News-20201159840.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Morning-News-20201159840.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Morning-News-20201159840.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0815"
+        },
+        {
+            "title": "samachar prabhat-Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "samachar prabhat-Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-prabhat-202011583654.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-prabhat-202011583654.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-prabhat-202011583654.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0800"
+        },
+        {
+            "title": "khabrein(Eve)-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "khabrein(Eve)-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-khabrein(Eve)-2020114212036.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-khabrein(Eve)-2020114212036.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-khabrein(Eve)-2020114212036.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "2115"
+        },
+        {
+            "title": "Evening News-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Evening News-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Evening-News-202011421923.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Evening-News-202011421923.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Evening-News-202011421923.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "2030"
+        },
+        {
+            "title": "samachar sandhya-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "samachar sandhya-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-sandhya-2020114203349.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-sandhya-2020114203349.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-samachar-sandhya-2020114203349.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "2045"
+        },
+        {
+            "title": "dopahar samachar-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "dopahar samachar-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-dopahar-samachar-202011415725.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-dopahar-samachar-202011415725.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Hindi-dopahar-samachar-202011415725.mp3",
+            "authors": [
+                {
+                    "name": "Hindi"
+                }
+            ],
+            "author": "Hindi",
+            "author_detail": {
+                "name": "Hindi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1415"
+        },
+        {
+            "title": "Midday News-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Midday News-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Midday-News-2020114143428.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Midday-News-2020114143428.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/English-Midday-News-2020114143428.mp3",
+            "authors": [
+                {
+                    "name": "English"
+                }
+            ],
+            "author": "English",
+            "author_detail": {
+                "name": "English"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1400"
+        },
+        {
+            "title": "Khabrein(Day)-Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Khabrein(Day)-Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabrein(Day)-2020114141510.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabrein(Day)-2020114141510.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/2020/Nov/Urdu-Khabrein(Day)-2020114141510.mp3",
+            "authors": [
+                {
+                    "name": "Urdu"
+                }
+            ],
+            "author": "Urdu",
+            "author_detail": {
+                "name": "Urdu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1350"
+        },
+        {
+            "title": "Assamese-0705-0715 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Assamese-0705-0715 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-0705-0715-202011572942.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-0705-0715-202011572942.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-0705-0715-202011572942.mp3",
+            "authors": [
+                {
+                    "name": "Assamese"
+                }
+            ],
+            "author": "Assamese",
+            "author_detail": {
+                "name": "Assamese"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0705-0715"
+        },
+        {
+            "title": "Assamese-1340-1350 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Assamese-1340-1350 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-1340-1350-202011414232.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-1340-1350-202011414232.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Assamese-Assamese-1340-1350-202011414232.mp3",
+            "authors": [
+                {
+                    "name": "Assamese"
+                }
+            ],
+            "author": "Assamese",
+            "author_detail": {
+                "name": "Assamese"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1340-1350"
+        },
+        {
+            "title": "Bengali-0725-0735 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Bengali-0725-0735 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-0725-0735-202011583728.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-0725-0735-202011583728.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-0725-0735-202011583728.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0725-0735"
+        },
+        {
+            "title": "Bengali-1330-1340 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Bengali-1330-1340 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-1330-1340-2020114141744.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-1330-1340-2020114141744.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Bengali-Bengali-1330-1340-2020114141744.mp3",
+            "authors": [
+                {
+                    "name": "Bengali"
+                }
+            ],
+            "author": "Bengali",
+            "author_detail": {
+                "name": "Bengali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1330-1340"
+        },
+        {
+            "title": "Dogri-1915-1930 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Dogri-1915-1930 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-1915-1930-2020114195346.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-1915-1930-2020114195346.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-1915-1930-2020114195346.mp3",
+            "authors": [
+                {
+                    "name": "Dogri"
+                }
+            ],
+            "author": "Dogri",
+            "author_detail": {
+                "name": "Dogri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1915-1930"
+        },
+        {
+            "title": "Dogri-0830-0840 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Dogri-0830-0840 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-0830-0840-2020114125244.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-0830-0840-2020114125244.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Dogri-Dogri-0830-0840-2020114125244.mp3",
+            "authors": [
+                {
+                    "name": "Dogri"
+                }
+            ],
+            "author": "Dogri",
+            "author_detail": {
+                "name": "Dogri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "0830-0840"
+        },
+        {
+            "title": "Gujarati-1950-2000 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Gujarati-1950-2000 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1950-2000-202011420745.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1950-2000-202011420745.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1950-2000-202011420745.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1950-2000"
+        },
+        {
+            "title": "Gujarati-0745-0755 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Gujarati-0745-0755 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-0745-0755-202011583742.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-0745-0755-202011583742.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-0745-0755-202011583742.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0745-0755"
+        },
+        {
+            "title": "Gujarati-1320-1330 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Gujarati-1320-1330 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1320-1330-2020114134445.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1320-1330-2020114134445.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Gujarati-Gujarati-1320-1330-2020114134445.mp3",
+            "authors": [
+                {
+                    "name": "Gujarati"
+                }
+            ],
+            "author": "Gujarati",
+            "author_detail": {
+                "name": "Gujarati"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1320-1330"
+        },
+        {
+            "title": "Kannada-1310-1320 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kannada-1310-1320 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1310-1320-2020114134522.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1310-1320-2020114134522.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1310-1320-2020114134522.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1310-1320"
+        },
+        {
+            "title": "Kannada-0735-0745 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kannada-0735-0745 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-2020114125042.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-2020114125042.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-2020114125042.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "0735-0745"
+        },
+        {
+            "title": "Kannada-1935-1945 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kannada-1935-1945 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1935-1945-202011419599.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1935-1945-202011419599.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-1935-1945-202011419599.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1935-1945"
+        },
+        {
+            "title": "Kannada-0735-0745 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kannada-0735-0745 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-202011583713.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-202011583713.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kannada-Kannada-0735-0745-202011583713.mp3",
+            "authors": [
+                {
+                    "name": "Kannada"
+                }
+            ],
+            "author": "Kannada",
+            "author_detail": {
+                "name": "Kannada"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0735-0745"
+        },
+        {
+            "title": "Kashmiri-1825-1840 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kashmiri-1825-1840 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-1825-1840-202011418564.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-1825-1840-202011418564.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-1825-1840-202011418564.mp3",
+            "authors": [
+                {
+                    "name": "Kashmiri"
+                }
+            ],
+            "author": "Kashmiri",
+            "author_detail": {
+                "name": "Kashmiri"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1825-1840"
+        },
+        {
+            "title": "Kashmiri-0745-0755 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Kashmiri-0745-0755 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-0745-0755-2020115855.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-0745-0755-2020115855.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Kashmiri-Kashmiri-0745-0755-2020115855.mp3",
+            "authors": [
+                {
+                    "name": "Kashmiri"
+                }
+            ],
+            "author": "Kashmiri",
+            "author_detail": {
+                "name": "Kashmiri"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0745-0755"
+        },
+        {
+            "title": "Konkani-1830-1835 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Konkani-1830-1835 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-1830-1835-202011419101.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-1830-1835-202011419101.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-1830-1835-202011419101.mp3",
+            "authors": [
+                {
+                    "name": "Konkani"
+                }
+            ],
+            "author": "Konkani",
+            "author_detail": {
+                "name": "Konkani"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1830-1835"
+        },
+        {
+            "title": "Konkani-0840-0850 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Konkani-0840-0850 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-0840-0850-202011510029.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-0840-0850-202011510029.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Konkani-Konkani-0840-0850-202011510029.mp3",
+            "authors": [
+                {
+                    "name": "Konkani"
+                }
+            ],
+            "author": "Konkani",
+            "author_detail": {
+                "name": "Konkani"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0840-0850"
+        },
+        {
+            "title": "Malayalam-0725-0735 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Malayalam-0725-0735 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-0725-0735-20201158528.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-0725-0735-20201158528.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-0725-0735-20201158528.mp3",
+            "authors": [
+                {
+                    "name": "Malayalam"
+                }
+            ],
+            "author": "Malayalam",
+            "author_detail": {
+                "name": "Malayalam"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0725-0735"
+        },
+        {
+            "title": "Malayalam-1925-1935 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Malayalam-1925-1935 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-1925-1935-2020114201551.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-1925-1935-2020114201551.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Malayalam-Malayalam-1925-1935-2020114201551.mp3",
+            "authors": [
+                {
+                    "name": "Malayalam"
+                }
+            ],
+            "author": "Malayalam",
+            "author_detail": {
+                "name": "Malayalam"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1925-1935"
+        },
+        {
+            "title": "Marathi-0920-0930 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Marathi-0920-0930 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-0920-0930-2020114123655.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-0920-0930-2020114123655.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-0920-0930-2020114123655.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "0920-0930"
+        },
+        {
+            "title": "Marathi-1330-1340 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Marathi-1330-1340 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-1330-1340-2020114141711.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-1330-1340-2020114141711.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Marathi-Marathi-1330-1340-2020114141711.mp3",
+            "authors": [
+                {
+                    "name": "Marathi"
+                }
+            ],
+            "author": "Marathi",
+            "author_detail": {
+                "name": "Marathi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1330-1340"
+        },
+        {
+            "title": "Nepali-1925-1935 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Nepali-1925-1935 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Nepali-Nepali-1925-1935-202011419433.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Nepali-Nepali-1925-1935-202011419433.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Nepali-Nepali-1925-1935-202011419433.mp3",
+            "authors": [
+                {
+                    "name": "Nepali"
+                }
+            ],
+            "author": "Nepali",
+            "author_detail": {
+                "name": "Nepali"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1925-1935"
+        },
+        {
+            "title": "Odia-1915-1925 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Odia-1915-1925 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1915-1925-2020114193910.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1915-1925-2020114193910.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1915-1925-2020114193910.mp3",
+            "authors": [
+                {
+                    "name": "Odia"
+                }
+            ],
+            "author": "Odia",
+            "author_detail": {
+                "name": "Odia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1915-1925"
+        },
+        {
+            "title": "Odia-1350-1400 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Odia-1350-1400 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1350-1400-2020114142625.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1350-1400-2020114142625.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-1350-1400-2020114142625.mp3",
+            "authors": [
+                {
+                    "name": "Odia"
+                }
+            ],
+            "author": "Odia",
+            "author_detail": {
+                "name": "Odia"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1350-1400"
+        },
+        {
+            "title": "Odia-0715-0725 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Odia-0715-0725 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-0715-0725-202011574831.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-0715-0725-202011574831.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Odia-Odia-0715-0725-202011574831.mp3",
+            "authors": [
+                {
+                    "name": "Odia"
+                }
+            ],
+            "author": "Odia",
+            "author_detail": {
+                "name": "Odia"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0715-0725"
+        },
+        {
+            "title": "Punjabi-0830-0840 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Punjabi-0830-0840 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-0830-0840-202011584139.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-0830-0840-202011584139.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-0830-0840-202011584139.mp3",
+            "authors": [
+                {
+                    "name": "Punjabi"
+                }
+            ],
+            "author": "Punjabi",
+            "author_detail": {
+                "name": "Punjabi"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0830-0840"
+        },
+        {
+            "title": "Punjabi-1340-1350 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Punjabi-1340-1350 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1340-1350-2020114141538.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1340-1350-2020114141538.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1340-1350-2020114141538.mp3",
+            "authors": [
+                {
+                    "name": "Punjabi"
+                }
+            ],
+            "author": "Punjabi",
+            "author_detail": {
+                "name": "Punjabi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1340-1350"
+        },
+        {
+            "title": "Punjabi-1930-1940 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Punjabi-1930-1940 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1930-1940-2020114194343.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1930-1940-2020114194343.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Punjabi-Punjabi-1930-1940-2020114194343.mp3",
+            "authors": [
+                {
+                    "name": "Punjabi"
+                }
+            ],
+            "author": "Punjabi",
+            "author_detail": {
+                "name": "Punjabi"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1930-1940"
+        },
+        {
+            "title": "Sanskrit-1810-1815 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Sanskrit-1810-1815 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-1810-1815-2020114183322.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-1810-1815-2020114183322.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-1810-1815-2020114183322.mp3",
+            "authors": [
+                {
+                    "name": "Sanskrit"
+                }
+            ],
+            "author": "Sanskrit",
+            "author_detail": {
+                "name": "Sanskrit"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1810-1815"
+        },
+        {
+            "title": "Sanskrit-0655-0700 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Sanskrit-0655-0700 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-0655-0700-202011571733.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-0655-0700-202011571733.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Sanskrit-Sanskrit-0655-0700-202011571733.mp3",
+            "authors": [
+                {
+                    "name": "Sanskrit"
+                }
+            ],
+            "author": "Sanskrit",
+            "author_detail": {
+                "name": "Sanskrit"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0655-0700"
+        },
+        {
+            "title": "Tamil-1240-1250 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Tamil-1240-1250 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1240-1250-2020114131932.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1240-1250-2020114131932.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1240-1250-2020114131932.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1240-1250"
+        },
+        {
+            "title": "Tamil-1915-1925 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Tamil-1915-1925 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1915-1925-2020114195325.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1915-1925-2020114195325.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-1915-1925-2020114195325.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1915-1925"
+        },
+        {
+            "title": "Tamil-0715-0725 -Nov 05, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Tamil-0715-0725 -Nov 05, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-0715-0725-20201158395.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-0715-0725-20201158395.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Tamil-Tamil-0715-0725-20201158395.mp3",
+            "authors": [
+                {
+                    "name": "Tamil"
+                }
+            ],
+            "author": "Tamil",
+            "author_detail": {
+                "name": "Tamil"
+            },
+            "published": "Nov 05, 2020",
+            "published_parsed": null,
+            "bulletintime": "0715-0725"
+        },
+        {
+            "title": "Telugu-1230-1240 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Telugu-1230-1240 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1230-1240-202011413219.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1230-1240-202011413219.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1230-1240-202011413219.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1230-1240"
+        },
+        {
+            "title": "Telugu-1905-1915 -Nov 04, 2020",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+                "value": "Telugu-1905-1915 -Nov 04, 2020"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1905-1915-202011419541.mp3"
+                },
+                {
+                    "type": "audio/mpeg",
+                    "href": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1905-1915-202011419541.mp3",
+                    "rel": "enclosure"
+                }
+            ],
+            "link": "https://newsonair.gov.in/writereaddata/Bulletins_Audio/NSD/2020/Nov/NSD-Telugu-Telugu-1905-1915-202011419541.mp3",
+            "authors": [
+                {
+                    "name": "Telugu"
+                }
+            ],
+            "author": "Telugu",
+            "author_detail": {
+                "name": "Telugu"
+            },
+            "published": "Nov 04, 2020",
+            "published_parsed": null,
+            "bulletintime": "1905-1915"
+        }
+    ],
+    "bozo": 1,
+    "headers": {
+        "Cache-Control": "private",
+        "Content-Type": "text/html; charset=utf-8",
+        "Server": "Microsoft-IIS/8.0",
+        "X-AspNet-Version": "4.0.30319",
+        "X-Powered-By": "ASP.NET",
+        "X-Frame-Options": "sameorigin",
+        "Date": "Thu, 05 Nov 2020 05:20:19 GMT",
+        "Connection": "close",
+        "Content-Length": "32485"
+    },
+    "href": "https://newsonair.gov.in/NSD_Audio_rss.aspx",
+    "status": 301,
+    "encoding": "utf-8",
+    "bozo_exception": "feedparser.NonXMLContentType(\'text/html; charset=utf-8 is not an XML media type\')",
+    "version": "rss20",
+    "namespaces": {}
+}
