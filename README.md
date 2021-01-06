@@ -20,6 +20,9 @@ For Heroku I am using the [scheduler addon](https://devcenter.heroku.com/article
 > The [`config.toml`](https://github.com/neelabalan/airbot/blob/master/config.toml) file is where the preferences are set by just uncommenting or commenting the radio channels you like
 
 
+## Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 

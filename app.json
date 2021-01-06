@@ -1,0 +1,19 @@
+{
+    "name": "Flask-Vue-Todo",
+    "description": "A todo app with Vue and backed by Flask",
+    "keywords": [
+        "Flask",
+        "Telegram"
+    ],
+    "repository": "https://github.com/neelabalan/airbot",
+    "logo": "https://en.wikipedia.org/wiki/All_India_Radio#/media/File:Logo_of_AIR.svg",
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+    ],
+    "image": "heroku/heroku:16",
+    "addons": [
+        "scheduler"
+    ]
+}
