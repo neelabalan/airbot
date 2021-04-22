@@ -1,10 +1,10 @@
 from datetime import date 
-from bot import Bot
+from bot import Bot # just has post message
 
+import configparser
 import logging
 import feedparser
 import requests
-import toml
 import logging
 import os
 
@@ -33,14 +33,25 @@ urls  = {
 }
 
 # utils
-def get_config( config_name ):
+def get_config( config_name = 'config.ini' ):
     ''' returns config preferences from config.toml '''
-    with open( config_name, 'r' ) as file:
-        return toml.load( file ).get( 'config' )
+    config = configparser.ConfigParser()
+    config.read(config_name)
+    stations = ['national', 'local']
+    return { 
+        station: list(
+            map(
+                lambda x: x.strip(), 
+                config['station'][station].split(',')
+            ) 
+        ) for station in stations
+    }
+
 
 def get_feed_data( url ):
     ''' returns feed parser dictionary '''
     return feedparser.parse( url.strip() )
+
 
 def _format_time( time ):
     ''' input - 1010, output - 10:10 '''
@@ -51,6 +62,7 @@ def _format_time( time ):
     else:
         return tformat( time )
 
+
 def construct_message( entry, published, title ):
         time      = entry.get( 'bulletintime' )
         date_time = published + ' ' + _format_time( time )
@@ -59,7 +71,10 @@ def construct_message( entry, published, title ):
             entry.get( 'link' ),
             date_time,
         )
+
+
 # ---
+
 
 def local_news_filter( entry ):
     ''' function to return keys for filtering by preference '''
@@ -67,9 +82,11 @@ def local_news_filter( entry ):
     filter_title = '-'.join( title.split( '-' )[ :2 ] ).lower()
     return filter_title
 
+
 def national_news_filter( entry ):
     ''' function to return keys for filtering by preference '''
     return entry.get( 'author' ).lower() 
+
 
 def get_messages_for_posting( feed_data, preference, filter_function ):
     ''' returns messages '''
